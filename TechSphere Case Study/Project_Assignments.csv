@@ -1,0 +1,201 @@
+﻿project_id,employeeid,employeename,project_name,start_date,end_date,project_status,client_name,budget,team_size,manager_id,technologies_used,location,hours_worked,milestones_achieved,risks_identified
+586,873,Sara Kumar,Mobile App Development,2022-12-16 00:00:00,2025-04-14 00:00:00,On Hold,Sen-Master,256013,17,102,"Azure, AWS",Morbi,135,7,None
+460,563,Zoya Badal,Infrastructure Upgrade,2023-12-15 00:00:00,2025-01-29 00:00:00,Completed,Shetty Inc,358455,7,107,"Azure, React",Bangalore,171,7,Resource issues
+117,392,Kimaya Mahajan,Infrastructure Upgrade,2023-11-30 00:00:00,2025-10-19 00:00:00,Completed,"Khatri, Viswanathan and Kibe",357796,8,101,"SQL, AWS",Ramagundam,111,9,Resource issues
+594,675,Aaina Bumb,Infrastructure Upgrade,2022-12-05 00:00:00,2025-06-12 00:00:00,Completed,Sahota-Rege,439565,13,110,"Node.js, Flutter",Jehanabad,125,10,None
+903,661,Advika Choudhary,Web Application Revamp,2023-08-03 00:00:00,2025-07-30 00:00:00,On Hold,Lala Ltd,435302,20,100,"AWS, React",Bidar,182,6,None
+872,565,Vihaan Ganguly,Infrastructure Upgrade,2023-04-15 00:00:00,2025-08-26 00:00:00,On Hold,Mangal-Bakshi,410928,14,107,"SQL, Flutter",Bhind,63,9,Resource issues
+723,122,Anya Dhar,Infrastructure Upgrade,2023-08-14 00:00:00,2024-11-17 00:00:00,Ongoing,Reddy-Barad,124054,11,104,"React, Python",Madhyamgram,88,9,None
+902,794,Charvi Mander,Data Migration,2023-09-20 00:00:00,2025-03-27 00:00:00,On Hold,"Vohra, Dhawan and Apte",315452,17,110,"Flutter, Node.js",Gurgaon,170,2,None
+548,929,Hridaan Master,Web Application Revamp,2023-11-01 00:00:00,2025-01-07 00:00:00,Ongoing,Chopra LLC,156014,12,104,"Azure, AWS",Raipur,102,2,Resource issues
+843,990,Hansh Das,Mobile App Development,2024-06-13 00:00:00,2025-02-06 00:00:00,On Hold,"Lall, Raju and Buch",376136,11,100,"Python, AWS",Hospet,155,3,Resource issues
+53,350,Alisha Tandon,Web Application Revamp,2024-05-24 00:00:00,2025-08-20 00:00:00,On Hold,"Sabharwal, Manda and Gulati",391664,7,104,"AWS, Flutter",Muzaffarpur,57,8,None
+881,108,Saanvi Sood,Data Migration,2024-09-22 00:00:00,2025-03-04 00:00:00,Ongoing,Subramanian Inc,131212,10,103,"Flutter, React",Deoghar,92,1,Resource issues
+176,580,Zaina Krish,Infrastructure Upgrade,2024-08-07 00:00:00,2025-10-15 00:00:00,On Hold,Chopra-Gulati,127348,14,107,"SQL, AWS",Unnao,150,9,Resource issues
+677,855,Kartik Ganesan,Data Migration,2024-06-14 00:00:00,2025-08-09 00:00:00,Ongoing,Bahl Ltd,139433,5,110,"Flutter, SQL",Sambhal,64,7,Resource issues
+894,132,Mohanlal Kumar,Infrastructure Upgrade,2023-03-21 00:00:00,2025-06-07 00:00:00,On Hold,Krishnamurthy Inc,146808,11,102,"Flutter, Node.js",Nadiad,72,5,None
+357,616,Riaan Randhawa,Web Application Revamp,2023-03-16 00:00:00,2025-03-19 00:00:00,On Hold,"Toor, Chander and Chanda",200960,14,109,"Python, SQL",Buxar,54,2,Resource issues
+452,871,Vihaan Vig,Mobile App Development,2024-11-09 00:00:00,2025-10-29 00:00:00,On Hold,"Wali, Shere and Kumar",151287,20,105,"Azure, Python",Bhimavaram,88,1,Resource issues
+664,578,Eva Sarraf,Mobile App Development,2023-07-07 00:00:00,2025-03-03 00:00:00,Completed,Andra-Sawhney,404145,5,110,"React, Flutter",Haldia,94,9,Delayed delivery
+333,392,Kimaya Mahajan,Mobile App Development,2024-01-13 00:00:00,2025-04-29 00:00:00,On Hold,Varghese-Gara,405313,14,103,"AWS, SQL",Bhubaneswar,169,6,Delayed delivery
+488,675,Aaina Bumb,Mobile App Development,2023-08-05 00:00:00,2025-06-01 00:00:00,Ongoing,Choudhry and Sons,423898,17,110,"Azure, SQL",Sambalpur,130,7,Resource issues
+189,661,Advika Choudhary,Web Application Revamp,2023-01-11 00:00:00,2025-06-25 00:00:00,On Hold,Khanna Group,154144,5,109,"AWS, Node.js",Erode,55,9,Resource issues
+240,565,Vihaan Ganguly,Web Application Revamp,2023-05-16 00:00:00,2025-04-25 00:00:00,Ongoing,Rattan-Gole,417953,8,110,"SQL, Node.js",Gaya,85,9,None
+557,122,Anya Dhar,Web Application Revamp,2023-11-26 00:00:00,2025-08-23 00:00:00,On Hold,Sahota-Chopra,314372,11,105,"React, AWS",Kirari Suleman Nagar,176,7,Delayed delivery
+48,794,Charvi Mander,Web Application Revamp,2023-05-29 00:00:00,2025-10-17 00:00:00,Completed,Bandi Ltd,252996,15,103,"Azure, SQL",Tinsukia,110,9,Delayed delivery
+839,797,Pihu Hari,Web Application Revamp,2024-08-09 00:00:00,2025-10-22 00:00:00,On Hold,Chopra LLC,381657,17,102,"React, Flutter",Sikar,130,10,None
+305,143,Dharmajan Lal,Data Migration,2023-02-09 00:00:00,2025-06-05 00:00:00,On Hold,"Dar, Mann and Arora",478206,6,100,"Python, AWS",Jhansi,75,9,Delayed delivery
+285,253,Miraya Mahal,Data Migration,2023-10-09 00:00:00,2025-08-29 00:00:00,Completed,Sodhi LLC,433258,18,103,"Azure, Flutter",Serampore,197,7,None
+198,903,Hridaan Divan,Data Migration,2023-12-06 00:00:00,2025-08-31 00:00:00,Ongoing,Barman PLC,108835,16,101,"SQL, AWS",Junagadh,187,5,None
+685,672,Anika Subramaniam,Mobile App Development,2023-02-17 00:00:00,2025-09-09 00:00:00,Completed,"Boase, Ganguly and Sathe",231255,18,107,"SQL, React",Bilaspur,93,8,None
+356,241,Jayan Ramachandran,Mobile App Development,2024-04-02 00:00:00,2025-07-02 00:00:00,On Hold,Rajagopal Ltd,363883,13,103,"SQL, Azure",Mangalore,105,4,Delayed delivery
+304,671,Shamik Bhardwaj,Web Application Revamp,2024-02-08 00:00:00,2025-05-29 00:00:00,On Hold,Sami PLC,227920,18,108,"Node.js, Flutter",Ujjain,115,5,Resource issues
+410,999,Ishita Dhaliwal,Mobile App Development,2023-12-14 00:00:00,2025-05-15 00:00:00,Ongoing,Butala-Tandon,218983,17,109,"Flutter, Azure",Nizamabad,156,4,Delayed delivery
+186,344,Seher Kara,Infrastructure Upgrade,2023-03-09 00:00:00,2025-08-23 00:00:00,On Hold,Shah-Konda,104330,5,106,"Flutter, SQL",Ambala,149,10,None
+559,753,Jayesh Bhatt,Infrastructure Upgrade,2023-04-16 00:00:00,2025-04-28 00:00:00,On Hold,"Tank, Ghose and Andra",497735,12,102,"SQL, Node.js",Deoghar,163,7,Resource issues
+101,588,Kimaya Bhakta,Web Application Revamp,2023-03-23 00:00:00,2025-08-16 00:00:00,Ongoing,Kala-Walia,314485,18,102,"Flutter, SQL",Raebareli,176,5,Resource issues
+713,402,Elakshi Tailor,Infrastructure Upgrade,2023-01-12 00:00:00,2024-12-01 00:00:00,Ongoing,Jaggi-Sandal,158432,14,102,"Node.js, React",Durg,188,10,None
+969,324,Madhav Shankar,Infrastructure Upgrade,2024-08-09 00:00:00,2024-12-06 00:00:00,Ongoing,Gandhi-Suresh,455698,20,100,"React, Python",Thoothukudi,111,4,None
+416,195,Anvi Jayaraman,Infrastructure Upgrade,2023-12-28 00:00:00,2025-10-14 00:00:00,On Hold,"Dey, Sani and Gole",332509,9,103,"Azure, AWS",Mira-Bhayandar,125,9,Delayed delivery
+624,457,Rhea Kothari,Mobile App Development,2023-04-08 00:00:00,2025-06-12 00:00:00,Ongoing,Rajagopalan-Agarwal,113352,9,109,"Node.js, Python",Hindupur,134,4,Resource issues
+352,888,Zain Karan,Web Application Revamp,2023-06-19 00:00:00,2025-01-27 00:00:00,Completed,Dhar Group,488453,13,107,"Python, React",Vasai-Virar,90,4,Delayed delivery
+948,250,Armaan Baria,Mobile App Development,2024-03-10 00:00:00,2025-01-17 00:00:00,Completed,Kale-Kalla,151512,12,108,"Node.js, React",Chapra,77,8,None
+980,472,Aarav Tak,Data Migration,2024-02-01 00:00:00,2025-05-09 00:00:00,On Hold,"Bose, Savant and Mall",340897,18,100,"SQL, Node.js",Bhimavaram,177,7,Delayed delivery
+88,938,Indrajit Chander,Web Application Revamp,2024-01-12 00:00:00,2025-02-16 00:00:00,Completed,Bains-Gupta,159958,17,103,"Flutter, AWS",Pali,69,7,Resource issues
+13,309,Aarush Mandal,Mobile App Development,2024-01-19 00:00:00,2025-01-29 00:00:00,Completed,"Dora, Dhar and Bajwa",100637,18,109,"SQL, Python",Tirupati,97,9,None
+239,239,Pranay Kakar,Data Migration,2024-07-08 00:00:00,2024-12-22 00:00:00,Completed,"Balakrishnan, Rajagopalan and Bal",118402,18,101,"Azure, Python",Nagaon,181,8,Delayed delivery
+808,635,Raunak Sarin,Infrastructure Upgrade,2023-04-25 00:00:00,2025-10-07 00:00:00,Completed,Cheema Ltd,486358,10,108,"Azure, React",Jalgaon,61,9,None
+387,519,Jivin Hayre,Mobile App Development,2024-08-27 00:00:00,2024-11-20 00:00:00,Ongoing,Chakrabarti Ltd,285644,8,108,"Node.js, Python",Gandhinagar,51,10,Delayed delivery
+589,983,Badal Khanna,Mobile App Development,2022-12-05 00:00:00,2025-02-07 00:00:00,Ongoing,Sidhu Group,145142,8,102,"SQL, Python",Rampur,82,7,None
+737,674,Mishti Khosla,Web Application Revamp,2023-05-08 00:00:00,2025-11-05 00:00:00,On Hold,Cherian-Rastogi,127105,5,110,"Azure, Flutter",Bihar Sharif,165,9,None
+237,562,Uthkarsh Cherian,Mobile App Development,2024-06-06 00:00:00,2025-07-11 00:00:00,Completed,Mandal-Shere,142339,5,106,"Node.js, Python",Mau,171,1,Delayed delivery
+385,181,Nakul Batra,Infrastructure Upgrade,2024-04-07 00:00:00,2025-02-24 00:00:00,Ongoing,"Krishnan, Bhasin and Sachar",179514,11,110,"React, SQL",Sambalpur,76,8,Delayed delivery
+136,657,Jhanvi Virk,Web Application Revamp,2024-06-03 00:00:00,2025-02-22 00:00:00,On Hold,Lal Group,454847,19,105,"Azure, Flutter",Baranagar,101,5,Resource issues
+68,759,Umang Choudhry,Web Application Revamp,2023-12-21 00:00:00,2025-08-09 00:00:00,Completed,Saraf and Sons,338115,16,108,"SQL, Python",Jaunpur,52,7,Delayed delivery
+813,710,Nirvaan Luthra,Web Application Revamp,2023-01-30 00:00:00,2025-08-30 00:00:00,On Hold,Borde PLC,475699,8,107,"Flutter, Python",Satara,108,2,None
+535,517,Mehul Shan,Data Migration,2023-04-12 00:00:00,2025-01-09 00:00:00,On Hold,Saraf and Sons,236927,7,104,"Python, Flutter",Bally,73,4,Resource issues
+890,569,Yashvi Ramakrishnan,Infrastructure Upgrade,2024-07-18 00:00:00,2025-06-30 00:00:00,On Hold,Deshmukh Inc,380238,13,109,"Azure, React",Sonipat,82,4,Delayed delivery
+595,596,Keya Wali,Data Migration,2024-04-05 00:00:00,2025-06-15 00:00:00,Completed,Wali Ltd,208255,8,102,"Node.js, Azure",Warangal,165,1,Resource issues
+241,998,Manikya Bala,Web Application Revamp,2024-06-13 00:00:00,2024-12-17 00:00:00,On Hold,"Sheth, Yadav and Bhatia",307873,18,101,"Flutter, Python",Karaikudi,121,7,Delayed delivery
+711,264,Seher Hari,Web Application Revamp,2023-11-27 00:00:00,2025-03-29 00:00:00,Ongoing,Chacko-Chatterjee,263347,12,105,"Python, Flutter",Rewa,141,3,Delayed delivery
+835,752,Nishith Deshpande,Web Application Revamp,2023-02-22 00:00:00,2024-11-19 00:00:00,Ongoing,Raju-Karpe,268175,14,100,"Flutter, SQL",Dindigul,84,2,Delayed delivery
+498,370,Saira Loyal,Mobile App Development,2024-04-28 00:00:00,2024-11-17 00:00:00,Ongoing,Wadhwa Group,340200,18,103,"SQL, Python",Ballia,75,6,Resource issues
+116,262,Vaibhav Sidhu,Data Migration,2023-01-31 00:00:00,2025-10-30 00:00:00,Completed,"Balan, Subramaniam and Bali",402858,11,107,"SQL, AWS",Ratlam,137,5,Resource issues
+640,624,Riaan Kunda,Infrastructure Upgrade,2024-06-30 00:00:00,2024-12-20 00:00:00,Ongoing,"Brahmbhatt, Bose and Dutta",423158,8,106,"Azure, AWS",Rohtak,124,7,None
+174,717,Oorja Mahajan,Mobile App Development,2023-02-19 00:00:00,2025-03-28 00:00:00,On Hold,Bassi and Sons,235835,10,104,"Python, AWS",Erode,163,6,Resource issues
+17,982,Ivana Tank,Data Migration,2023-10-13 00:00:00,2025-03-30 00:00:00,On Hold,Bala LLC,480797,7,104,"Node.js, Flutter",Anantapuram,71,7,None
+526,719,Vaibhav Devi,Web Application Revamp,2024-03-16 00:00:00,2025-07-02 00:00:00,On Hold,Banik PLC,354858,19,108,"Azure, Flutter",Indore,185,8,None
+795,341,Raghav Sastry,Mobile App Development,2023-05-21 00:00:00,2025-07-19 00:00:00,On Hold,Kaul-Sekhon,413668,17,103,"Python, Node.js",Akola,127,5,Resource issues
+42,693,Vedika Ratti,Web Application Revamp,2023-06-26 00:00:00,2025-09-07 00:00:00,Ongoing,Basak-Shere,269790,17,101,"Python, Flutter",Haldia,181,1,Delayed delivery
+154,728,Tanya Doctor,Mobile App Development,2024-11-08 00:00:00,2025-03-14 00:00:00,Ongoing,Koshy-Virk,143773,13,102,"SQL, Node.js",Rampur,102,4,None
+149,502,Sahil Srinivas,Data Migration,2024-10-08 00:00:00,2025-03-24 00:00:00,Completed,"Ramachandran, Sunder and Bhatt",407598,8,109,"SQL, React",Pali,161,10,Resource issues
+277,111,Hiran Sidhu,Infrastructure Upgrade,2024-09-18 00:00:00,2025-08-27 00:00:00,Completed,Anne LLC,106742,16,104,"Azure, Flutter",Tirupati,66,2,Delayed delivery
+3,928,Shlok Chowdhury,Data Migration,2024-05-14 00:00:00,2025-10-12 00:00:00,Completed,"Sarin, Aurora and Gara",396820,18,103,"Node.js, Flutter",Mau,57,9,Resource issues
+923,520,Krish Varughese,Web Application Revamp,2023-06-27 00:00:00,2025-01-05 00:00:00,On Hold,Deshpande Inc,439215,20,106,"SQL, Python",Khammam,99,3,Resource issues
+880,872,Kismat Goswami,Mobile App Development,2023-08-31 00:00:00,2024-12-31 00:00:00,On Hold,Bhasin and Sons,265120,6,108,"Flutter, React",Pimpri-Chinchwad,110,5,Delayed delivery
+954,229,Yasmin Varughese,Web Application Revamp,2024-01-10 00:00:00,2025-08-25 00:00:00,On Hold,Golla PLC,155145,18,102,"React, Azure",Kamarhati,140,9,Delayed delivery
+317,337,Priyansh Walla,Data Migration,2023-06-08 00:00:00,2025-04-12 00:00:00,On Hold,Tiwari LLC,124897,13,110,"Node.js, AWS",Gangtok,195,5,None
+449,430,Ryan Gill,Infrastructure Upgrade,2023-12-28 00:00:00,2025-09-12 00:00:00,On Hold,"Kar, Krishnan and Bhasin",421708,9,106,"Flutter, SQL",Kumbakonam,172,9,None
+867,233,Vanya Saha,Infrastructure Upgrade,2023-06-14 00:00:00,2025-01-03 00:00:00,On Hold,Thaker-Madan,408639,8,109,"React, SQL",Morena,200,8,Delayed delivery
+861,100,Manikya Lall,Web Application Revamp,2024-04-30 00:00:00,2025-05-20 00:00:00,Ongoing,Tella PLC,155466,9,106,"Python, SQL",Guwahati,186,3,Resource issues
+519,145,Nakul Bhatti,Infrastructure Upgrade,2024-07-07 00:00:00,2025-04-10 00:00:00,Ongoing,Bera LLC,489235,17,109,"Node.js, Flutter",Udaipur,116,2,Resource issues
+203,880,Baiju Sastry,Mobile App Development,2023-03-01 00:00:00,2025-08-18 00:00:00,On Hold,Joshi-Toor,236374,19,109,"Python, SQL",Barasat,144,9,None
+656,826,Rasha Sama,Mobile App Development,2023-02-13 00:00:00,2025-06-26 00:00:00,Completed,Boase PLC,335473,12,106,"Python, SQL",Bihar Sharif,103,9,Resource issues
+495,246,Aradhya Varty,Infrastructure Upgrade,2024-08-26 00:00:00,2025-06-04 00:00:00,Ongoing,Chand LLC,346254,9,110,"Flutter, Node.js",Shimla,73,2,None
+433,831,Indrans Reddy,Web Application Revamp,2023-02-27 00:00:00,2025-07-01 00:00:00,Completed,"Kamdar, Gandhi and Balan",347543,20,100,"Flutter, Node.js",Mathura,128,7,None
+850,942,Rasha Boase,Infrastructure Upgrade,2023-01-23 00:00:00,2025-02-15 00:00:00,Ongoing,"Varkey, Sundaram and Dora",422257,12,106,"Flutter, Python",Ichalkaranji,73,5,None
+472,632,Shaan Varkey,Data Migration,2024-04-02 00:00:00,2025-07-17 00:00:00,Ongoing,"Mander, Andra and Karan",485185,6,107,"Azure, Node.js",Ulhasnagar,118,3,Delayed delivery
+378,820,Ishaan Chowdhury,Infrastructure Upgrade,2023-05-01 00:00:00,2025-03-21 00:00:00,Completed,Ramaswamy-Sood,157819,13,109,"SQL, Node.js",Vijayanagaram,134,9,Delayed delivery
+296,783,Anahita Bakshi,Data Migration,2024-03-10 00:00:00,2025-04-14 00:00:00,Ongoing,Verma-Bhatt,299683,19,106,"Flutter, Azure",Tiruppur,53,1,None
+199,704,Dharmajan Sekhon,Web Application Revamp,2024-08-24 00:00:00,2025-07-26 00:00:00,Completed,Kapur-Bhavsar,373043,9,110,"Flutter, AWS",Jabalpur,186,6,Delayed delivery
+398,441,Devansh Loyal,Infrastructure Upgrade,2023-06-14 00:00:00,2024-12-18 00:00:00,Completed,"D’Alia, Mani and Sawhney",266959,18,104,"AWS, Flutter",Secunderabad,194,6,Delayed delivery
+501,370,Saira Loyal,Infrastructure Upgrade,2023-09-23 00:00:00,2025-07-20 00:00:00,Ongoing,Yohannan PLC,111757,9,101,"Node.js, Azure",Loni,50,4,Resource issues
+632,262,Vaibhav Sidhu,Infrastructure Upgrade,2023-09-24 00:00:00,2025-02-13 00:00:00,Completed,Date Inc,164057,14,109,"React, Azure",Chandigarh,50,4,Delayed delivery
+572,624,Riaan Kunda,Mobile App Development,2023-09-23 00:00:00,2025-10-02 00:00:00,On Hold,Hari Inc,363371,17,108,"Azure, Node.js",Uluberia,50,9,Resource issues
+600,717,Oorja Mahajan,Web Application Revamp,2022-12-28 00:00:00,2025-03-09 00:00:00,On Hold,"Thakkar, Dey and Gala",105085,12,107,"Flutter, Python",Warangal,120,2,Resource issues
+728,982,Ivana Tank,Mobile App Development,2024-05-29 00:00:00,2025-06-29 00:00:00,Ongoing,"Bandi, Raju and Bal",274751,19,109,"AWS, SQL",Belgaum,123,2,None
+397,719,Vaibhav Devi,Infrastructure Upgrade,2024-09-27 00:00:00,2025-05-15 00:00:00,Completed,"Kibe, Konda and Doctor",143272,10,106,"SQL, Azure",Mango,58,9,Resource issues
+626,341,Raghav Sastry,Mobile App Development,2024-10-08 00:00:00,2025-08-26 00:00:00,Ongoing,"Sengupta, Sarraf and Kari",217790,12,103,"React, Flutter",Secunderabad,59,10,Delayed delivery
+561,472,Aarav Tak,Mobile App Development,2023-05-02 00:00:00,2025-01-24 00:00:00,On Hold,"Krishnan, Tara and Tata",243624,6,109,"SQL, Python",Ambala,190,6,None
+552,938,Indrajit Chander,Mobile App Development,2024-07-12 00:00:00,2025-04-25 00:00:00,Ongoing,"Deshmukh, Bandi and Khanna",351945,11,104,"AWS, Flutter",Adoni,92,7,Resource issues
+693,309,Aarush Mandal,Infrastructure Upgrade,2024-04-23 00:00:00,2025-04-26 00:00:00,Completed,"Setty, Sodhi and Bhatia",313465,13,104,"SQL, AWS",Bally,133,6,Delayed delivery
+494,239,Pranay Kakar,Mobile App Development,2022-12-15 00:00:00,2025-03-18 00:00:00,Ongoing,Raj LLC,375723,13,106,"React, Azure",Bhatpara,105,4,Delayed delivery
+238,635,Raunak Sarin,Infrastructure Upgrade,2023-04-26 00:00:00,2025-09-07 00:00:00,Ongoing,Gopal Group,469897,6,103,"React, Python",Amravati,96,5,None
+382,519,Jivin Hayre,Infrastructure Upgrade,2023-11-16 00:00:00,2024-12-02 00:00:00,On Hold,Yogi PLC,454356,7,101,"SQL, Flutter",Vasai-Virar,70,4,Resource issues
+252,953,Saksham Karpe,Infrastructure Upgrade,2023-02-08 00:00:00,2025-11-05 00:00:00,Completed,Sule Group,145641,20,104,"Azure, AWS",Kolkata,109,8,Resource issues
+533,513,Khushi Walla,Data Migration,2023-12-17 00:00:00,2025-09-18 00:00:00,On Hold,Soman-Sankaran,393571,7,110,"Node.js, React",Kumbakonam,51,2,None
+983,370,Saira Loyal,Web Application Revamp,2024-04-25 00:00:00,2025-02-24 00:00:00,Completed,Deep-Rout,163761,9,108,"SQL, React",New Delhi,80,5,None
+339,262,Vaibhav Sidhu,Mobile App Development,2023-06-29 00:00:00,2025-02-21 00:00:00,Completed,Kara-Chand,175242,11,106,"Flutter, Azure",Kishanganj,134,9,Delayed delivery
+123,624,Riaan Kunda,Mobile App Development,2023-10-17 00:00:00,2025-03-14 00:00:00,Completed,Dutta and Sons,205639,10,109,"Azure, Python",Udaipur,160,4,Delayed delivery
+603,717,Oorja Mahajan,Infrastructure Upgrade,2023-08-20 00:00:00,2025-04-07 00:00:00,Completed,Shan-Deshpande,494016,8,105,"SQL, Azure",Aurangabad,101,6,None
+75,982,Ivana Tank,Web Application Revamp,2024-11-04 00:00:00,2024-12-08 00:00:00,On Hold,Soni-Warrior,265808,7,103,"AWS, Node.js",Pallavaram,50,4,None
+643,719,Vaibhav Devi,Data Migration,2024-11-01 00:00:00,2025-03-22 00:00:00,Completed,Krishnamurthy Group,384488,11,102,"Flutter, Node.js",Tadipatri,88,7,Delayed delivery
+453,341,Raghav Sastry,Mobile App Development,2024-02-01 00:00:00,2025-01-10 00:00:00,On Hold,Din Ltd,438730,19,103,"Azure, Node.js",Akola,191,4,Resource issues
+641,693,Vedika Ratti,Infrastructure Upgrade,2024-09-14 00:00:00,2025-04-29 00:00:00,Completed,Khatri LLC,342385,6,106,"Python, Flutter",Davanagere,136,4,Resource issues
+815,728,Tanya Doctor,Infrastructure Upgrade,2024-05-26 00:00:00,2025-07-03 00:00:00,Ongoing,"Kara, Kalita and Sha",425155,18,101,"React, Node.js",Nanded,190,8,Delayed delivery
+760,502,Sahil Srinivas,Data Migration,2024-06-04 00:00:00,2025-05-09 00:00:00,On Hold,Tank-Thakkar,443040,8,102,"React, Flutter",Madhyamgram,186,4,Delayed delivery
+679,111,Hiran Sidhu,Web Application Revamp,2024-07-02 00:00:00,2025-02-03 00:00:00,On Hold,Dara LLC,233088,14,102,"Python, SQL",Salem,123,10,Resource issues
+963,891,Samaira Taneja,Mobile App Development,2024-10-17 00:00:00,2025-07-22 00:00:00,Ongoing,"Sood, Behl and Soni",267648,15,109,"Python, AWS",Delhi,188,9,Delayed delivery
+290,302,Saanvi Madan,Infrastructure Upgrade,2023-05-20 00:00:00,2025-08-03 00:00:00,On Hold,Kalla-Dhillon,412394,14,100,"AWS, SQL",Malda,169,2,None
+772,981,Indranil Bandi,Mobile App Development,2024-06-11 00:00:00,2025-03-04 00:00:00,On Hold,Vohra-Barman,308533,12,103,"Azure, AWS",South Dumdum,165,6,None
+972,778,Shray Chauhan,Web Application Revamp,2023-02-06 00:00:00,2025-07-22 00:00:00,On Hold,Sood and Sons,496832,20,105,"React, Azure",Saharsa,168,3,Delayed delivery
+34,117,Drishya Tank,Mobile App Development,2023-08-11 00:00:00,2025-05-14 00:00:00,Completed,Grover Inc,143961,7,102,"Node.js, React",Navi Mumbai,142,10,Resource issues
+409,673,Pari Edwin,Infrastructure Upgrade,2024-06-21 00:00:00,2025-06-11 00:00:00,On Hold,Chaudry Group,310171,12,101,"Flutter, React",Narasaraopet,140,5,None
+500,910,Dhanuk Thakkar,Data Migration,2023-09-17 00:00:00,2025-07-26 00:00:00,On Hold,"Ganesan, Sem and Manne",337227,12,101,"AWS, Flutter",Arrah,186,7,Delayed delivery
+702,986,Drishya Mane,Web Application Revamp,2023-10-16 00:00:00,2024-11-22 00:00:00,Completed,"Taneja, Magar and Shere",452598,12,106,"AWS, Flutter",Anantapuram,69,5,Delayed delivery
+542,541,Inaaya  Sankar,Infrastructure Upgrade,2023-03-17 00:00:00,2025-10-29 00:00:00,On Hold,"Bahri, Dalal and Edwin",166924,19,101,"Python, Node.js",Pali,66,8,Delayed delivery
+95,451,Ivana Ramaswamy,Mobile App Development,2023-06-18 00:00:00,2025-03-20 00:00:00,Ongoing,Sane and Sons,420918,7,106,"React, Python",Aligarh,81,10,None
+901,231,Aarush Bhasin,Infrastructure Upgrade,2024-03-24 00:00:00,2025-08-02 00:00:00,Completed,"Barad, Bhakta and Hari",153357,8,109,"Node.js, Azure",Latur,155,5,Resource issues
+786,434,Nitya Majumdar,Web Application Revamp,2023-07-12 00:00:00,2025-07-16 00:00:00,Completed,Chauhan-Hegde,471654,15,108,"Python, Node.js",Noida,92,7,Resource issues
+619,869,Biju Sankaran,Mobile App Development,2024-08-13 00:00:00,2025-07-28 00:00:00,On Hold,Rajagopal and Sons,452955,19,108,"Flutter, React",Bardhaman,133,7,Resource issues
+650,152,Vaibhav Sathe,Data Migration,2024-06-24 00:00:00,2025-05-28 00:00:00,Ongoing,Varghese-Chaudhari,325108,20,108,"AWS, Python",Mira-Bhayandar,91,8,None
+115,377,Zara Sem,Web Application Revamp,2024-04-06 00:00:00,2024-12-11 00:00:00,Ongoing,Ranganathan-Chanda,482680,17,103,"Azure, Python",Hospet,142,4,None
+517,911,Madhav Ben,Web Application Revamp,2023-12-14 00:00:00,2025-07-02 00:00:00,Ongoing,Seth-Korpal,233433,5,105,"AWS, React",Jalna,88,6,None
+753,272,Kanav Dalal,Data Migration,2022-11-26 00:00:00,2025-01-02 00:00:00,Ongoing,Bakshi Group,323485,6,105,"Python, Flutter",Madurai,140,6,Delayed delivery
+99,431,Jiya Dave,Web Application Revamp,2023-10-30 00:00:00,2024-12-03 00:00:00,Ongoing,Sen Group,476545,20,104,"Flutter, Python",Bhubaneswar,173,3,None
+298,786,Nishith Sastry,Web Application Revamp,2023-08-18 00:00:00,2025-04-10 00:00:00,Ongoing,Choudhary Group,421250,11,104,"Python, AWS",Pondicherry,152,3,Delayed delivery
+860,941,Trisha Kalita,Infrastructure Upgrade,2024-01-06 00:00:00,2025-11-02 00:00:00,Completed,Shan-Kaur,139289,8,103,"Python, SQL",Katihar,125,9,Resource issues
+869,856,Divit Wadhwa,Mobile App Development,2024-01-29 00:00:00,2025-05-31 00:00:00,Ongoing,"Sarkar, Chaudhari and Issac",473200,12,109,"AWS, Azure",Thanjavur,157,5,Delayed delivery
+419,769,Tiya Chaudry,Data Migration,2023-08-26 00:00:00,2024-11-23 00:00:00,Ongoing,"Chaudhry, Samra and Dash",447990,16,109,"Azure, Python",Ujjain,86,4,None
+744,575,Neysa Sahota,Mobile App Development,2024-08-30 00:00:00,2024-12-26 00:00:00,Ongoing,"Rout, Chacko and Dhillon",327527,9,110,"AWS, React",Anand,105,9,None
+355,813,Sara Vohra,Mobile App Development,2024-06-26 00:00:00,2024-12-30 00:00:00,Completed,Madan Inc,167319,15,106,"React, AWS",Jehanabad,166,7,Delayed delivery
+979,659,Shamik Wali,Data Migration,2023-01-21 00:00:00,2025-03-15 00:00:00,Ongoing,Yadav-Sachar,286128,6,107,"Node.js, SQL",Baranagar,127,5,Delayed delivery
+726,593,Sara Sibal,Data Migration,2024-06-15 00:00:00,2025-09-04 00:00:00,On Hold,Wali PLC,205352,10,104,"Azure, React",Kottayam,89,5,Delayed delivery
+844,686,Akarsh Chada,Infrastructure Upgrade,2023-10-05 00:00:00,2025-09-17 00:00:00,Ongoing,Korpal-Sridhar,263628,19,101,"Python, Node.js",Purnia,96,9,None
+195,558,Jhanvi Sidhu,Web Application Revamp,2023-03-30 00:00:00,2025-03-28 00:00:00,Completed,"Sachar, Agrawal and Dugar",427714,12,103,"Python, Azure",Barasat,193,7,Resource issues
+578,515,Farhan Walla,Mobile App Development,2023-07-30 00:00:00,2025-09-27 00:00:00,Ongoing,Dubey-Dey,412155,12,106,"Flutter, Python",Deoghar,104,6,None
+655,422,Rhea Kala,Data Migration,2024-07-22 00:00:00,2025-08-16 00:00:00,Ongoing,Walia Group,321594,6,109,"SQL, Flutter",Ramgarh,51,6,Resource issues
+814,723,Ishaan Arya,Mobile App Development,2024-05-30 00:00:00,2024-11-24 00:00:00,On Hold,Saran and Sons,398281,14,109,"AWS, SQL",Asansol,144,2,Resource issues
+268,263,Keya Hayre,Data Migration,2024-03-31 00:00:00,2025-06-11 00:00:00,Completed,Sen LLC,113855,17,110,"Azure, Flutter",Delhi,116,7,None
+571,155,Hrishita Kant,Mobile App Development,2023-07-29 00:00:00,2025-08-27 00:00:00,Completed,Sule-Jain,399094,9,100,"Flutter, Python",Rajkot,62,6,Delayed delivery
+272,768,Prerak Kannan,Web Application Revamp,2024-09-29 00:00:00,2025-02-10 00:00:00,Completed,Dixit-Kohli,399891,5,107,"Flutter, SQL",Varanasi,89,9,None
+108,507,Adira Walia,Mobile App Development,2023-04-24 00:00:00,2025-06-13 00:00:00,On Hold,Sinha and Sons,394615,10,102,"Node.js, SQL",Indore,81,4,Delayed delivery
+87,640,Ryan Mani,Infrastructure Upgrade,2022-12-23 00:00:00,2025-06-01 00:00:00,On Hold,Din-Khosla,145843,7,108,"Python, Azure",Sambhal,105,2,None
+50,339,Amani Soni,Infrastructure Upgrade,2023-08-07 00:00:00,2025-07-11 00:00:00,Completed,Kapadia-Dhar,387698,10,103,"Python, Flutter",Suryapet,187,9,Delayed delivery
+530,912,Madhup Shere,Infrastructure Upgrade,2023-02-02 00:00:00,2025-07-02 00:00:00,Ongoing,Garg-Vyas,495718,18,105,"SQL, Node.js",Bally,154,1,Resource issues
+787,663,Rania Master,Infrastructure Upgrade,2022-12-05 00:00:00,2024-11-27 00:00:00,Completed,Sarkar LLC,246511,12,103,"Azure, Python",Bhiwani,169,1,Resource issues
+51,802,Zaina Venkataraman,Web Application Revamp,2024-09-07 00:00:00,2025-06-08 00:00:00,On Hold,Ramesh Group,161150,7,107,"Flutter, Python",Madhyamgram,68,2,None
+249,560,Jayesh Mall,Data Migration,2024-05-31 00:00:00,2025-02-12 00:00:00,On Hold,"Yadav, Kamdar and Chopra",182510,6,107,"React, AWS",Farrukhabad,136,2,Resource issues
+961,142,Lavanya Kari,Web Application Revamp,2024-06-17 00:00:00,2025-06-24 00:00:00,Ongoing,Kalla-Singh,127638,10,110,"Azure, SQL",Pondicherry,188,5,None
+635,454,Ryan Tata,Mobile App Development,2024-04-20 00:00:00,2025-07-20 00:00:00,Ongoing,Guha Ltd,296632,19,103,"SQL, Python",Pune,174,10,None
+423,251,Ehsaan Som,Infrastructure Upgrade,2024-06-22 00:00:00,2025-06-16 00:00:00,Ongoing,"Kanda, Lal and Krishnamurthy",413567,8,102,"Python, React",Suryapet,52,4,Delayed delivery
+598,150,Lagan Dubey,Web Application Revamp,2023-01-18 00:00:00,2025-03-11 00:00:00,Ongoing,Rout-Rao,136400,10,105,"Flutter, SQL",Jehanabad,152,8,Resource issues
+175,879,Mohanlal Borah,Mobile App Development,2023-06-07 00:00:00,2025-04-26 00:00:00,On Hold,Gala-Chaudry,299670,19,107,"Flutter, Python",Gurgaon,167,10,Resource issues
+59,429,Piya Deo,Web Application Revamp,2024-07-07 00:00:00,2025-06-12 00:00:00,On Hold,Chacko-Sunder,135138,16,107,"React, Flutter",Kirari Suleman Nagar,148,6,None
+819,801,Romil Mann,Infrastructure Upgrade,2022-12-06 00:00:00,2025-09-17 00:00:00,Ongoing,"Salvi, Walia and Khosla",180830,19,105,"Python, React",Tiruchirappalli,153,10,Resource issues
+516,528,Rohan Anand,Mobile App Development,2023-03-12 00:00:00,2025-05-19 00:00:00,Ongoing,Sidhu-Wali,271591,12,104,"Flutter, SQL",Kakinada,159,9,Delayed delivery
+992,593,Sara Sibal,Web Application Revamp,2023-05-29 00:00:00,2025-07-06 00:00:00,On Hold,"Krishnamurthy, Issac and Bir",193895,12,104,"Node.js, Python",Anantapur,193,3,Delayed delivery
+211,686,Akarsh Chada,Data Migration,2023-12-06 00:00:00,2025-06-30 00:00:00,Ongoing,Mane PLC,137688,9,103,"Flutter, SQL",Arrah,134,3,Resource issues
+782,558,Jhanvi Sidhu,Web Application Revamp,2023-01-19 00:00:00,2025-04-22 00:00:00,Ongoing,"Kohli, Kumer and Hayer",335034,14,103,"React, Azure",Morena,195,4,Resource issues
+858,515,Farhan Walla,Web Application Revamp,2023-10-28 00:00:00,2025-04-29 00:00:00,On Hold,Krishnamurthy-Gokhale,329804,8,103,"AWS, Azure",Bijapur,131,9,None
+793,422,Rhea Kala,Web Application Revamp,2023-11-07 00:00:00,2025-09-01 00:00:00,Ongoing,Walla LLC,254427,11,109,"Python, React",Visakhapatnam,130,8,Resource issues
+755,723,Ishaan Arya,Web Application Revamp,2023-04-20 00:00:00,2025-02-25 00:00:00,Ongoing,Koshy-Warrior,473942,17,110,"AWS, Node.js",Jalna,80,5,Delayed delivery
+330,917,Jivika Ramakrishnan,Infrastructure Upgrade,2023-09-03 00:00:00,2024-12-03 00:00:00,On Hold,Bala-Raj,464189,9,106,"Azure, AWS",Asansol,144,8,Delayed delivery
+435,320,Bhamini Sule,Mobile App Development,2024-03-09 00:00:00,2025-01-17 00:00:00,Ongoing,"Suresh, Wali and Kale",445871,18,107,"SQL, Python",Bhalswa Jahangir Pur,121,1,None
+941,636,Alia Hayre,Web Application Revamp,2024-07-29 00:00:00,2025-10-25 00:00:00,On Hold,"Yadav, Venkatesh and Kumer",189495,9,105,"SQL, AWS",Ozhukarai,84,2,None
+73,216,Alisha Konda,Data Migration,2024-05-01 00:00:00,2025-07-26 00:00:00,Completed,Shan Group,323508,9,109,"Python, AWS",Rajkot,64,9,None
+512,731,Yashvi Brahmbhatt,Mobile App Development,2024-03-09 00:00:00,2025-03-20 00:00:00,Ongoing,Shenoy-Savant,499901,18,104,"Python, Azure",Tiruvottiyur,125,5,None
+134,334,Trisha Bhat,Data Migration,2022-12-20 00:00:00,2025-02-15 00:00:00,Completed,Babu and Sons,404926,5,103,"Node.js, Azure",Ulhasnagar,169,7,Resource issues
+191,737,Aaryahi Devan,Data Migration,2024-01-01 00:00:00,2025-08-28 00:00:00,On Hold,Rao Ltd,307748,20,104,"Python, Flutter",Kamarhati,61,3,Resource issues
+362,182,Nayantara Dugal,Infrastructure Upgrade,2024-07-01 00:00:00,2025-10-11 00:00:00,On Hold,"Sibal, Apte and Ratta",106141,13,109,"Flutter, AWS",Nagpur,115,10,None
+827,897,Ishita Edwin,Mobile App Development,2023-03-25 00:00:00,2024-12-21 00:00:00,On Hold,"Savant, Sarin and Choudhury",220669,13,107,"Python, React",Shimoga,177,7,Resource issues
+752,576,Bhavin Hari,Mobile App Development,2024-03-25 00:00:00,2025-09-15 00:00:00,On Hold,Dutt and Sons,274932,15,109,"React, Azure",Surat,53,7,Resource issues
+996,471,Stuvan Dixit,Web Application Revamp,2023-05-05 00:00:00,2025-02-27 00:00:00,Ongoing,Doctor-Upadhyay,396534,15,110,"Node.js, Flutter",Avadi,136,1,None
+84,455,Tushar Dalal,Web Application Revamp,2024-01-30 00:00:00,2025-09-22 00:00:00,Completed,"Rajan, Wason and Bir",395920,8,109,"React, Flutter",Bokaro,176,3,Resource issues
+70,923,Yuvaan Chand,Data Migration,2024-07-26 00:00:00,2025-10-10 00:00:00,On Hold,Wason Group,489616,16,101,"AWS, React",Vasai-Virar,192,9,Resource issues
+388,980,Kismat Baria,Mobile App Development,2024-03-16 00:00:00,2025-08-28 00:00:00,Completed,Agarwal LLC,150862,14,104,"Flutter, SQL",Tadipatri,111,5,Delayed delivery
+284,650,Eva Bhandari,Infrastructure Upgrade,2024-09-18 00:00:00,2025-05-30 00:00:00,On Hold,Choudhary Group,120101,17,106,"SQL, Flutter",Amritsar,98,7,Delayed delivery
+585,375,Aarna Arora,Web Application Revamp,2024-01-05 00:00:00,2025-07-22 00:00:00,Completed,Sami PLC,320984,20,109,"AWS, React",Kadapa,160,8,Resource issues
+152,747,Ela Thakkar,Web Application Revamp,2024-03-09 00:00:00,2024-12-28 00:00:00,Completed,Chahal-Vig,204811,11,109,"SQL, Flutter",Ratlam,144,6,None
+1,127,Vritika Sachdev,Web Application Revamp,2023-06-24 00:00:00,2025-06-20 00:00:00,Completed,"Bahri, Gade and Yohannan",485998,11,105,"AWS, SQL",Ichalkaranji,123,7,Resource issues
+658,370,Saira Loyal,Mobile App Development,2023-01-26 00:00:00,2025-06-19 00:00:00,Ongoing,Arora and Sons,160016,13,104,"Flutter, React",Navi Mumbai,147,8,Resource issues
+783,262,Vaibhav Sidhu,Web Application Revamp,2023-04-17 00:00:00,2025-05-04 00:00:00,Ongoing,Shankar-Chowdhury,195864,15,107,"Python, Flutter",Udaipur,73,5,Delayed delivery
+889,624,Riaan Kunda,Web Application Revamp,2024-01-13 00:00:00,2025-05-12 00:00:00,On Hold,Master-Singh,136976,20,102,"Flutter, SQL",Coimbatore,60,4,Resource issues
+720,717,Oorja Mahajan,Mobile App Development,2024-09-09 00:00:00,2025-08-14 00:00:00,Completed,"Butala, Vohra and Subramanian",400689,9,107,"SQL, AWS",Tenali,154,4,Resource issues
+380,982,Ivana Tank,Mobile App Development,2024-10-13 00:00:00,2025-01-29 00:00:00,On Hold,Saini-Sarraf,467526,5,103,"React, AWS",Kolhapur,61,5,Resource issues
+33,719,Vaibhav Devi,Mobile App Development,2024-07-24 00:00:00,2025-07-20 00:00:00,Ongoing,Ram Group,130758,9,109,"Azure, Python",Hapur,69,6,Resource issues
+256,341,Raghav Sastry,Mobile App Development,2023-01-16 00:00:00,2025-08-24 00:00:00,Ongoing,Bakshi-Sundaram,219196,19,104,"Node.js, Azure",Hyderabad,169,4,Resource issues
+503,693,Vedika Ratti,Data Migration,2023-10-29 00:00:00,2025-08-26 00:00:00,Completed,Virk Inc,376390,20,108,"Flutter, Azure",Tirupati,76,8,Resource issues
+551,728,Tanya Doctor,Infrastructure Upgrade,2022-12-18 00:00:00,2025-03-12 00:00:00,On Hold,Deshmukh-Saran,431202,10,107,"Flutter, AWS",Bhimavaram,127,4,None
+812,502,Sahil Srinivas,Data Migration,2024-08-27 00:00:00,2025-03-31 00:00:00,Ongoing,Batra Ltd,460562,19,107,"Node.js, AWS",Dharmavaram,70,10,None
+701,111,Hiran Sidhu,Data Migration,2023-11-07 00:00:00,2025-04-25 00:00:00,Ongoing,Loke LLC,498258,7,102,"Flutter, AWS",Dehradun,140,7,Delayed delivery
