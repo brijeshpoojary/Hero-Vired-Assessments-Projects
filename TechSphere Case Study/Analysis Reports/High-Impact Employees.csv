@@ -1,0 +1,37 @@
+employeeid,employeename,project_id,project_name,performance_score,budget
+111,"Hiran Sidhu",701,"Data Migration",Excellent,498258
+717,"Oorja Mahajan",603,"Infrastructure Upgrade",Excellent,494016
+145,"Nakul Bhatti",519,"Infrastructure Upgrade",Excellent,489235
+888,"Zain Karan",352,"Web Application Revamp",Excellent,488453
+635,"Raunak Sarin",808,"Infrastructure Upgrade",Excellent,486358
+377,"Zara Sem",115,"Web Application Revamp",Excellent,482680
+143,"Dharmajan Lal",305,"Data Migration",Excellent,478206
+434,"Nitya Majumdar",786,"Web Application Revamp",Excellent,471654
+635,"Raunak Sarin",238,"Infrastructure Upgrade",Excellent,469897
+869,"Biju Sankaran",619,"Mobile App Development",Excellent,452955
+520,"Krish Varughese",923,"Web Application Revamp",Excellent,439215
+624,"Riaan Kunda",640,"Infrastructure Upgrade",Excellent,423158
+942,"Rasha Boase",850,"Infrastructure Upgrade",Excellent,422257
+430,"Ryan Gill",449,"Infrastructure Upgrade",Excellent,421708
+786,"Nishith Sastry",298,"Web Application Revamp",Excellent,421250
+251,"Ehsaan Som",423,"Infrastructure Upgrade",Excellent,413567
+302,"Saanvi Madan",290,"Infrastructure Upgrade",Excellent,412394
+578,"Eva Sarraf",664,"Mobile App Development",Excellent,404145
+262,"Vaibhav Sidhu",116,"Data Migration",Excellent,402858
+717,"Oorja Mahajan",720,"Mobile App Development",Excellent,400689
+768,"Prerak Kannan",272,"Web Application Revamp",Excellent,399891
+155,"Hrishita Kant",571,"Mobile App Development",Excellent,399094
+471,"Stuvan Dixit",996,"Web Application Revamp",Excellent,396534
+455,"Tushar Dalal",84,"Web Application Revamp",Excellent,395920
+569,"Yashvi Ramakrishnan",890,"Infrastructure Upgrade",Excellent,380238
+241,"Jayan Ramachandran",356,"Mobile App Development",Excellent,363883
+624,"Riaan Kunda",572,"Mobile App Development",Excellent,363371
+563,"Zoya Badal",460,"Infrastructure Upgrade",Excellent,358455
+938,"Indrajit Chander",552,"Mobile App Development",Excellent,351945
+831,"Indrans Reddy",433,"Web Application Revamp",Excellent,347543
+370,"Saira Loyal",498,"Mobile App Development",Excellent,340200
+910,"Dhanuk Thakkar",500,"Data Migration",Excellent,337227
+826,"Rasha Sama",656,"Mobile App Development",Excellent,335473
+575,"Neysa Sahota",744,"Mobile App Development",Excellent,327527
+794,"Charvi Mander",902,"Data Migration",Excellent,315452
+309,"Aarush Mandal",693,"Infrastructure Upgrade",Excellent,313465
