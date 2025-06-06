@@ -1,0 +1,126 @@
+,sale_id,date,customer_id,product_id,quantity,price,name,email,address,product_name,category,cost_price
+0,1001,01-09-2024,C101,P201,2,29.99,Alex Johnson,alex.johnson@example.com,101 Maple Street,Wireless Mouse,Electronics,20
+1,1002,02-09-2024,C102,P202,1,49.99,Emily Davis,emily.davis@example.com,202 Oak Avenue,LED Desk Lamp,Home & Office,35
+2,1003,02-09-2024,C103,P203,3,15.99,Michael Brown,michael.brown@example.com,303 Pine Road,Notebook Set,Stationery,10
+3,1004,03-09-2024,C101,P204,1,99.99,Alex Johnson,alex.johnson@example.com,101 Maple Street,Bluetooth Speaker,Electronics,75
+4,1005,04-09-2024,C104,P201,2,29.99,Sophia Wilson,sophia.wilson@example.com,404 Cedar Lane,Wireless Mouse,Electronics,20
+5,1006,05-09-2024,C105,P202,4,49.99,Daniel Smith,daniel.smith@example.com,505 Birch Drive,LED Desk Lamp,Home & Office,35
+6,1007,06-09-2024,C106,P203,1,15.99,Olivia Martin,olivia.martin@example.com,606 Spruce Street,Notebook Set,Stationery,10
+7,1008,07-09-2024,C107,P204,5,99.99,Matthew Clark,matthew.clark@example.com,707 Elm Avenue,Bluetooth Speaker,Electronics,75
+8,1009,08-09-2024,C108,P201,2,29.99,Isabella Lewis,isabella.lewis@example.com,808 Walnut Road,Wireless Mouse,Electronics,20
+9,1010,09-09-2024,C109,P202,3,49.99,Ethan Walker,ethan.walker@example.com,909 Chestnut Lane,LED Desk Lamp,Home & Office,35
+10,1011,10-09-2024,C110,P203,2,15.99,Mia Hall,mia.hall@example.com,1010 Aspen Drive,Notebook Set,Stationery,10
+11,1012,11-09-2024,C111,P204,4,99.99,William Young,william.young@example.com,1111 Pine Street,Bluetooth Speaker,Electronics,75
+12,1013,12-09-2024,C112,P201,1,29.99,Ava Hernandez,ava.hernandez@example.com,1212 Oak Avenue,Wireless Mouse,Electronics,20
+13,1014,13-09-2024,C113,P202,5,49.99,James King,james.king@example.com,1313 Maple Road,LED Desk Lamp,Home & Office,35
+14,1015,14-09-2024,C114,P203,3,15.99,Charlotte Wright,charlotte.wright@example.com,1414 Cedar Lane,Notebook Set,Stationery,10
+15,1016,15-09-2024,C115,P204,2,99.99,Logan Lopez,logan.lopez@example.com,1515 Birch Drive,Bluetooth Speaker,Electronics,75
+16,1017,16-09-2024,C116,P201,4,29.99,Amelia Hill,amelia.hill@example.com,1616 Spruce Street,Wireless Mouse,Electronics,20
+17,1018,17-09-2024,C117,P202,1,49.99,Benjamin Scott,benjamin.scott@example.com,1717 Elm Avenue,LED Desk Lamp,Home & Office,35
+18,1019,18-09-2024,C118,P203,5,15.99,Evelyn Green,evelyn.green@example.com,1818 Walnut Road,Notebook Set,Stationery,10
+19,1020,19-09-2024,C119,P204,3,99.99,Jacob Adams,jacob.adams@example.com,1919 Chestnut Lane,Bluetooth Speaker,Electronics,75
+20,1021,20-09-2024,C120,P201,2,29.99,Harper Baker,harper.baker@example.com,2020 Aspen Drive,Wireless Mouse,Electronics,20
+21,1022,21-09-2024,C121,P202,4,49.99,Alexander Gonzalez,alexander.gonzalez@example.com,2121 Pine Street,LED Desk Lamp,Home & Office,35
+22,1023,22-09-2024,C122,P203,1,15.99,Abigail Nelson,abigail.nelson@example.com,2222 Oak Avenue,Notebook Set,Stationery,10
+23,1024,23-09-2024,C123,P204,5,99.99,Jackson Carter,jackson.carter@example.com,2323 Maple Road,Bluetooth Speaker,Electronics,75
+24,1025,24-09-2024,C124,P201,3,29.99,Emily Mitchell,emily.mitchell@example.com,2424 Cedar Lane,Wireless Mouse,Electronics,20
+25,1026,25-09-2024,C125,P202,2,49.99,Liam Perez,liam.perez@example.com,2525 Birch Drive,LED Desk Lamp,Home & Office,35
+26,1027,26-09-2024,C126,P203,4,15.99,Sophia Roberts,sophia.roberts@example.com,2626 Spruce Street,Notebook Set,Stationery,10
+27,1028,27-09-2024,C127,P204,1,99.99,Noah Turner,noah.turner@example.com,2727 Elm Avenue,Bluetooth Speaker,Electronics,75
+28,1029,28-09-2024,C128,P201,5,29.99,Grace Phillips,grace.phillips@example.com,2828 Walnut Road,Wireless Mouse,Electronics,20
+29,1030,29-09-2024,C129,P202,3,49.99,Elijah Campbell,elijah.campbell@example.com,2929 Chestnut Lane,LED Desk Lamp,Home & Office,35
+30,1031,30-09-2024,C130,P203,2,15.99,Chloe Parker,chloe.parker@example.com,3030 Aspen Drive,Notebook Set,Stationery,10
+31,1032,01-10-2024,C131,P204,4,99.99,Aiden Evans,aiden.evans@example.com,3131 Pine Street,Bluetooth Speaker,Electronics,75
+32,1033,02-10-2024,C132,P201,1,29.99,Victoria Edwards,victoria.edwards@example.com,3232 Oak Avenue,Wireless Mouse,Electronics,20
+33,1034,03-10-2024,C133,P202,5,49.99,Lucas Collins,lucas.collins@example.com,3333 Maple Road,LED Desk Lamp,Home & Office,35
+34,1035,04-10-2024,C134,P203,3,15.99,Penelope Stewart,penelope.stewart@example.com,3434 Cedar Lane,Notebook Set,Stationery,10
+35,1036,05-10-2024,C135,P204,2,99.99,Oliver Sanchez,oliver.sanchez@example.com,3535 Birch Drive,Bluetooth Speaker,Electronics,75
+36,1037,06-10-2024,C136,P201,4,29.99,Lily Morris,lily.morris@example.com,3636 Spruce Street,Wireless Mouse,Electronics,20
+37,1038,07-10-2024,C137,P202,1,49.99,Henry Rogers,henry.rogers@example.com,3737 Elm Avenue,LED Desk Lamp,Home & Office,35
+38,1039,08-10-2024,C138,P203,5,15.99,Ella Reed,ella.reed@example.com,3838 Walnut Road,Notebook Set,Stationery,10
+39,1040,09-10-2024,C139,P204,3,99.99,Samuel Cook,samuel.cook@example.com,3939 Chestnut Lane,Bluetooth Speaker,Electronics,75
+40,1041,10-10-2024,C140,P201,2,29.99,Madison Morgan,madison.morgan@example.com,4040 Aspen Drive,Wireless Mouse,Electronics,20
+41,1042,11-10-2024,C141,P202,4,49.99,Daniel Bell,daniel.bell@example.com,4141 Pine Street,LED Desk Lamp,Home & Office,35
+42,1043,12-10-2024,C142,P203,1,15.99,Sofia Murphy,sofia.murphy@example.com,4242 Oak Avenue,Notebook Set,Stationery,10
+43,1044,13-10-2024,C143,P204,5,99.99,Joseph Bailey,joseph.bailey@example.com,4343 Maple Road,Bluetooth Speaker,Electronics,75
+44,1045,14-10-2024,C144,P201,3,29.99,Hannah Rivera,hannah.rivera@example.com,4444 Cedar Lane,Wireless Mouse,Electronics,20
+45,1046,15-10-2024,C145,P202,2,49.99,David Cooper,david.cooper@example.com,4545 Birch Drive,LED Desk Lamp,Home & Office,35
+46,1047,16-10-2024,C146,P203,4,15.99,Aria Richardson,aria.richardson@example.com,4646 Spruce Street,Notebook Set,Stationery,10
+47,1048,17-10-2024,C147,P204,1,99.99,Carter Cox,carter.cox@example.com,4747 Elm Avenue,Bluetooth Speaker,Electronics,75
+48,1049,18-10-2024,C148,P201,5,29.99,Scarlett Howard,scarlett.howard@example.com,4848 Walnut Road,Wireless Mouse,Electronics,20
+49,1050,19-10-2024,C149,P202,3,49.99,Owen Ward,owen.ward@example.com,4949 Chestnut Lane,LED Desk Lamp,Home & Office,35
+50,1051,20-10-2024,C150,P203,2,15.99,Lillian Torres,lillian.torres@example.com,5050 Aspen Drive,Notebook Set,Stationery,10
+51,1052,21-10-2024,C151,P204,4,99.99,Wyatt Peterson,wyatt.peterson@example.com,5151 Pine Street,Bluetooth Speaker,Electronics,75
+52,1053,22-10-2024,C152,P201,1,29.99,Ella Gray,ella.gray@example.com,5252 Oak Avenue,Wireless Mouse,Electronics,20
+53,1054,23-10-2024,C153,P202,5,49.99,Jack Ramirez,jack.ramirez@example.com,5353 Maple Road,LED Desk Lamp,Home & Office,35
+54,1055,24-10-2024,C154,P203,3,15.99,Eleanor James,eleanor.james@example.com,5454 Cedar Lane,Notebook Set,Stationery,10
+55,1056,25-10-2024,C155,P204,2,99.99,Matthew Brooks,matthew.brooks@example.com,5555 Birch Drive,Bluetooth Speaker,Electronics,75
+56,1057,26-10-2024,C156,P201,4,29.99,Avery Kelly,avery.kelly@example.com,5656 Spruce Street,Wireless Mouse,Electronics,20
+57,1058,27-10-2024,C157,P202,1,49.99,Sebastian Sanders,sebastian.sanders@example.com,5757 Elm Avenue,LED Desk Lamp,Home & Office,35
+58,1059,28-10-2024,C158,P203,5,15.99,Zoey Price,zoey.price@example.com,5858 Walnut Road,Notebook Set,Stationery,10
+59,1060,29-10-2024,C159,P204,3,99.99,Caleb Bennett,caleb.bennett@example.com,5959 Chestnut Lane,Bluetooth Speaker,Electronics,75
+60,1061,30-10-2024,C160,P201,2,29.99,Nora Wood,nora.wood@example.com,6060 Aspen Drive,Wireless Mouse,Electronics,20
+61,1062,31-10-2024,C161,P202,4,49.99,Andrew Barnes,andrew.barnes@example.com,6161 Pine Street,LED Desk Lamp,Home & Office,35
+62,1063,01-11-2024,C162,P203,1,15.99,Riley Ross,riley.ross@example.com,6262 Oak Avenue,Notebook Set,Stationery,10
+63,1064,02-11-2024,C163,P204,5,99.99,Isaac Henderson,isaac.henderson@example.com,6363 Maple Road,Bluetooth Speaker,Electronics,75
+64,1065,03-11-2024,C164,P201,3,29.99,Samantha Coleman,samantha.coleman@example.com,6464 Cedar Lane,Wireless Mouse,Electronics,20
+65,1066,04-11-2024,C165,P202,2,49.99,Ryan Jenkins,ryan.jenkins@example.com,6565 Birch Drive,LED Desk Lamp,Home & Office,35
+66,1067,05-11-2024,C166,P203,4,15.99,Leah Perry,leah.perry@example.com,6666 Spruce Street,Notebook Set,Stationery,10
+67,1068,06-11-2024,C167,P204,1,99.99,Christopher Powell,christopher.powell@example.com,6767 Elm Avenue,Bluetooth Speaker,Electronics,75
+68,1069,07-11-2024,C168,P201,5,29.99,Audrey Long,audrey.long@example.com,6868 Walnut Road,Wireless Mouse,Electronics,20
+69,1070,08-11-2024,C169,P202,3,49.99,Nathan Patterson,nathan.patterson@example.com,6969 Chestnut Lane,LED Desk Lamp,Home & Office,35
+70,1071,09-11-2024,C170,P203,2,15.99,Grace Hughes,grace.hughes@example.com,7070 Aspen Drive,Notebook Set,Stationery,10
+71,1072,10-11-2024,C171,P204,4,99.99,Thomas Flores,thomas.flores@example.com,7171 Pine Street,Bluetooth Speaker,Electronics,75
+72,1073,11-11-2024,C172,P201,1,29.99,Violet Simmons,violet.simmons@example.com,7272 Oak Avenue,Wireless Mouse,Electronics,20
+73,1074,12-11-2024,C173,P202,5,49.99,Caleb Foster,caleb.foster@example.com,7373 Maple Road,LED Desk Lamp,Home & Office,35
+74,1075,13-11-2024,C174,P203,3,15.99,Lily Butler,lily.butler@example.com,7474 Cedar Lane,Notebook Set,Stationery,10
+75,1076,14-11-2024,C175,P204,2,99.99,Jonathan Richardson,jonathan.richardson@example.com,7575 Birch Drive,Bluetooth Speaker,Electronics,75
+76,1077,15-11-2024,C176,P201,4,29.99,Zoe Bryant,zoe.bryant@example.com,7676 Spruce Street,Wireless Mouse,Electronics,20
+77,1078,16-11-2024,C177,P202,1,49.99,Charles Alexander,charles.alexander@example.com,7777 Elm Avenue,LED Desk Lamp,Home & Office,35
+78,1079,17-11-2024,C178,P203,5,15.99,Stella Russell,stella.russell@example.com,7878 Walnut Road,Notebook Set,Stationery,10
+79,1080,18-11-2024,C179,P204,3,99.99,Christian Griffin,christian.griffin@example.com,7979 Chestnut Lane,Bluetooth Speaker,Electronics,75
+80,1081,19-11-2024,C180,P201,2,29.99,Evelyn Diaz,evelyn.diaz@example.com,8080 Aspen Drive,Wireless Mouse,Electronics,20
+81,1082,20-11-2024,C181,P202,4,49.99,Aaron Hayes,aaron.hayes@example.com,8181 Pine Street,LED Desk Lamp,Home & Office,35
+82,1083,21-11-2024,C182,P203,1,15.99,Lucy Myers,lucy.myers@example.com,8282 Oak Avenue,Notebook Set,Stationery,10
+83,1084,22-11-2024,C183,P204,5,99.99,Adam Ford,adam.ford@example.com,8383 Maple Road,Bluetooth Speaker,Electronics,75
+84,1085,23-11-2024,C184,P201,3,29.99,Victoria Hamilton,victoria.hamilton@example.com,8484 Cedar Lane,Wireless Mouse,Electronics,20
+85,1086,24-11-2024,C185,P202,2,49.99,Isaiah Graham,isaiah.graham@example.com,8585 Birch Drive,LED Desk Lamp,Home & Office,35
+86,1087,25-11-2024,C186,P203,4,15.99,Brooklyn Wallace,brooklyn.wallace@example.com,8686 Spruce Street,Notebook Set,Stationery,10
+87,1088,26-11-2024,C187,P204,1,99.99,Nicholas West,nicholas.west@example.com,8787 Elm Avenue,Bluetooth Speaker,Electronics,75
+88,1089,27-11-2024,C188,P201,5,29.99,Anna Cole,anna.cole@example.com,8888 Walnut Road,Wireless Mouse,Electronics,20
+89,1090,28-11-2024,C189,P202,3,49.99,Jeremiah Jordan,jeremiah.jordan@example.com,8989 Chestnut Lane,LED Desk Lamp,Home & Office,35
+90,1091,29-11-2024,C190,P203,2,15.99,Hazel Reynolds,hazel.reynolds@example.com,9090 Aspen Drive,Notebook Set,Stationery,10
+91,1092,30-11-2024,C191,P204,4,99.99,Joshua Fisher,joshua.fisher@example.com,9191 Pine Street,Bluetooth Speaker,Electronics,75
+92,1093,01-12-2024,C192,P201,1,29.99,Claire Kim,claire.kim@example.com,9292 Oak Avenue,Wireless Mouse,Electronics,20
+93,1094,02-12-2024,C193,P202,5,49.99,Levi Butler,levi.butler@example.com,9393 Maple Road,LED Desk Lamp,Home & Office,35
+94,1095,03-12-2024,C194,P203,3,15.99,Aria Bennett,aria.bennett@example.com,9494 Cedar Lane,Notebook Set,Stationery,10
+95,1096,04-12-2024,C195,P204,2,99.99,David Cox,david.cox@example.com,9595 Birch Drive,Bluetooth Speaker,Electronics,75
+96,1097,05-12-2024,C196,P201,4,29.99,Scarlett Nguyen,scarlett.nguyen@example.com,9696 Spruce Street,Wireless Mouse,Electronics,20
+97,1098,06-12-2024,C197,P202,1,49.99,Isaac Brooks,isaac.brooks@example.com,9797 Elm Avenue,LED Desk Lamp,Home & Office,35
+98,1099,07-12-2024,C198,P203,5,15.99,Luna Ward,luna.ward@example.com,9898 Walnut Road,Notebook Set,Stationery,10
+99,1100,08-12-2024,C199,P204,3,99.99,Julian Torres,julian.torres@example.com,9999 Chestnut Lane,Bluetooth Speaker,Electronics,75
+100,1101,09-12-2024,C200,P201,2,29.99,Sadie Peterson,sadie.peterson@example.com,10000 Aspen Drive,Wireless Mouse,Electronics,20
+101,1102,10-12-2024,C101,P202,4,49.99,Alex Johnson,alex.johnson@example.com,101 Maple Street,LED Desk Lamp,Home & Office,35
+102,1103,11-12-2024,C102,P203,1,15.99,Emily Davis,emily.davis@example.com,202 Oak Avenue,Notebook Set,Stationery,10
+103,1104,12-12-2024,C103,P204,5,99.99,Michael Brown,michael.brown@example.com,303 Pine Road,Bluetooth Speaker,Electronics,75
+104,1105,13-12-2024,C104,P201,3,29.99,Sophia Wilson,sophia.wilson@example.com,404 Cedar Lane,Wireless Mouse,Electronics,20
+105,1106,14-12-2024,C105,P202,2,49.99,Daniel Smith,daniel.smith@example.com,505 Birch Drive,LED Desk Lamp,Home & Office,35
+106,1107,15-12-2024,C106,P203,4,15.99,Olivia Martin,olivia.martin@example.com,606 Spruce Street,Notebook Set,Stationery,10
+107,1108,16-12-2024,C107,P204,1,99.99,Matthew Clark,matthew.clark@example.com,707 Elm Avenue,Bluetooth Speaker,Electronics,75
+108,1109,17-12-2024,C108,P201,5,29.99,Isabella Lewis,isabella.lewis@example.com,808 Walnut Road,Wireless Mouse,Electronics,20
+109,1110,18-12-2024,C109,P202,3,49.99,Ethan Walker,ethan.walker@example.com,909 Chestnut Lane,LED Desk Lamp,Home & Office,35
+110,1111,19-12-2024,C110,P203,2,15.99,Mia Hall,mia.hall@example.com,1010 Aspen Drive,Notebook Set,Stationery,10
+111,1112,20-12-2024,C111,P204,4,99.99,William Young,william.young@example.com,1111 Pine Street,Bluetooth Speaker,Electronics,75
+112,1113,21-12-2024,C112,P201,1,29.99,Ava Hernandez,ava.hernandez@example.com,1212 Oak Avenue,Wireless Mouse,Electronics,20
+113,1114,22-12-2024,C113,P202,5,49.99,James King,james.king@example.com,1313 Maple Road,LED Desk Lamp,Home & Office,35
+114,1115,23-12-2024,C114,P203,3,15.99,Charlotte Wright,charlotte.wright@example.com,1414 Cedar Lane,Notebook Set,Stationery,10
+115,1116,24-12-2024,C115,P204,2,99.99,Logan Lopez,logan.lopez@example.com,1515 Birch Drive,Bluetooth Speaker,Electronics,75
+116,1117,25-12-2024,C116,P201,4,29.99,Amelia Hill,amelia.hill@example.com,1616 Spruce Street,Wireless Mouse,Electronics,20
+117,1118,26-12-2024,C117,P202,1,49.99,Benjamin Scott,benjamin.scott@example.com,1717 Elm Avenue,LED Desk Lamp,Home & Office,35
+118,1119,27-12-2024,C118,P203,5,15.99,Evelyn Green,evelyn.green@example.com,1818 Walnut Road,Notebook Set,Stationery,10
+119,1120,28-12-2024,C119,P204,3,99.99,Jacob Adams,jacob.adams@example.com,1919 Chestnut Lane,Bluetooth Speaker,Electronics,75
+120,1121,29-12-2024,C120,P201,2,29.99,Harper Baker,harper.baker@example.com,2020 Aspen Drive,Wireless Mouse,Electronics,20
+121,1122,30-12-2024,C121,P202,4,49.99,Alexander Gonzalez,alexander.gonzalez@example.com,2121 Pine Street,LED Desk Lamp,Home & Office,35
+122,1123,31-12-2024,C122,P203,1,15.99,Abigail Nelson,abigail.nelson@example.com,2222 Oak Avenue,Notebook Set,Stationery,10
+123,1124,01-01-2025,C123,P204,5,99.99,Jackson Carter,jackson.carter@example.com,2323 Maple Road,Bluetooth Speaker,Electronics,75
+124,1125,02-01-2025,C124,P201,3,29.99,Emily Mitchell,emily.mitchell@example.com,2424 Cedar Lane,Wireless Mouse,Electronics,20
